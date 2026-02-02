@@ -1,0 +1,1 @@
+infinite-interval>=1.5.92
